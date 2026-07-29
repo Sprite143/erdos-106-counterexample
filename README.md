@@ -173,15 +173,26 @@ for the unrestricted `f` is Cauchy–Schwarz.
 
 ## Files
 
+**To check the claim — these are the only files that matter:**
+
 | file | what it is |
 |---|---|
 | `CONSTRUCTION.md` | full derivation, with a self-contained checker to paste anywhere |
-| `AUDIT_FOR_REVIEW.md` | adversarial audit request: assumptions, controls, and what could still be wrong |
 | `construct.py` | builds the 17 squares from the 2×2 linear system, then verifies |
 | `witness.py` | 136 separating-axis witnesses, no geometry routine |
 | `verify_independent.py` | independent check by exact polygon clipping |
+| `AUDIT_FOR_REVIEW.md` | adversarial audit request: assumptions, controls, and what could still be wrong |
 | `CERTIFICATE_n17.json` | the original LP-found configuration (see note below) |
-| `search/` | the search code that found it originally |
+
+**How it was found — not needed to verify anything:**
+
+| file | what it is |
+|---|---|
+| `lp.py` | the linear program: for fixed angles, centres and sizes solve exactly |
+| `geom.py`, `nlp.py`, `refine.py` | separating-axis geometry, smooth polish, and the two combined |
+| `search.py`, `hunt.py`, `tiltscan.py` | angle search, parallel hunt, structured tilt scans |
+| `bku.py` | validates the solver against all 26 proven Baek–Koizumi–Ueoro values |
+| `certify.py`, `independent.py` | earlier interval-arithmetic and clipping checkers |
 
 **Note on the two configurations.** The result was first found by numerical search and recorded
 in `CERTIFICATE_n17.json`, snapped to rationals and shrunk by `1e-13` for safety, giving
@@ -191,10 +202,14 @@ supersedes it: it needs no shrink, so it reaches the family's exact optimum
 
 ## Reproducing the search
 
-`search/` contains the original pipeline. For a fixed angle vector the problem is a linear
-program — that is the key structural fact — so `search/lp.py` solves centres and sizes exactly
-with HiGHS, and only the angles are searched. `search/bku.py` validates the solver against all
-26 proven Baek–Koizumi–Ueoro values for `n = 1…26`; it matches every one and exceeds none.
+For a fixed angle vector the problem is a **linear program** — that is the key structural fact —
+so `lp.py` solves centres and sizes exactly with HiGHS, and only the angles are searched.
+`bku.py` validates that solver against all 26 proven Baek–Koizumi–Ueoro values for `n = 1…26`:
+it matches every one and exceeds none.
+
+This also explains why the search succeeds where a penalty-based optimiser struggles. The
+optimum has 36 exact tangencies, and an LP puts tangencies at **active constraints** — which is
+where LP optima live — rather than treating them as near-violations to be penalised.
 
 ## Licence
 
