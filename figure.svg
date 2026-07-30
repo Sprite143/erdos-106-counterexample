@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1580" height="900" font-family="Georgia,serif"><rect width="100%" height="100%" fill="#fff"/>
+<polygon points="54.0000,804.0000 241.5000,804.0000 241.5000,616.5000 54.0000,616.5000" fill="#5b7fa622" stroke="#43607f" stroke-width="2"/>
+<text x="147.8" y="715.2" font-size="15" fill="#33475c" text-anchor="middle" font-family="Consolas,monospace">0.2500</text>
+<polygon points="54.0000,616.5000 241.5000,616.5000 241.5000,429.0000 54.0000,429.0000" fill="#5b7fa622" stroke="#43607f" stroke-width="2"/>
+<text x="147.8" y="527.8" font-size="15" fill="#33475c" text-anchor="middle" font-family="Consolas,monospace">0.2500</text>
+<polygon points="54.0000,429.0000 241.5000,429.0000 241.5000,241.5000 54.0000,241.5000" fill="#5b7fa622" stroke="#43607f" stroke-width="2"/>
+<text x="147.8" y="340.2" font-size="15" fill="#33475c" text-anchor="middle" font-family="Consolas,monospace">0.2500</text>
+<polygon points="54.0000,241.5000 241.5000,241.5000 241.5000,54.0000 54.0000,54.0000" fill="#5b7fa622" stroke="#43607f" stroke-width="2"/>
+<text x="147.8" y="152.8" font-size="15" fill="#33475c" text-anchor="middle" font-family="Consolas,monospace">0.2500</text>
+<polygon points="241.5000,804.0000 383.9537,804.0000 383.9537,661.5463 241.5000,661.5463" fill="#5b7fa622" stroke="#43607f" stroke-width="2"/>
+<text x="312.7" y="737.8" font-size="15" fill="#33475c" text-anchor="middle" font-family="Consolas,monospace">0.1899</text>
+<polygon points="241.5000,661.5463 383.9537,661.5463 383.9537,519.0926 241.5000,519.0926" fill="#5b7fa622" stroke="#43607f" stroke-width="2"/>
+<text x="312.7" y="595.3" font-size="15" fill="#33475c" text-anchor="middle" font-family="Consolas,monospace">0.1899</text>
+<polygon points="241.5000,519.0926 383.9537,519.0926 383.9537,376.6389 241.5000,376.6389" fill="#5b7fa622" stroke="#43607f" stroke-width="2"/>
+<text x="312.7" y="452.9" font-size="15" fill="#33475c" text-anchor="middle" font-family="Consolas,monospace">0.1899</text>
+<polygon points="383.9537,804.0000 593.9768,804.0000 593.9768,593.9768 383.9537,593.9768" fill="#5b7fa622" stroke="#43607f" stroke-width="2"/>
+<text x="489.0" y="704.0" font-size="15" fill="#33475c" text-anchor="middle" font-family="Consolas,monospace">0.2800</text>
+<polygon points="383.9537,593.9768 593.9768,593.9768 593.9768,383.9537 383.9537,383.9537" fill="#5b7fa622" stroke="#43607f" stroke-width="2"/>
+<text x="489.0" y="494.0" font-size="15" fill="#33475c" text-anchor="middle" font-family="Consolas,monospace">0.2800</text>
+<polygon points="593.9768,804.0000 804.0000,804.0000 804.0000,593.9768 593.9768,593.9768" fill="#5b7fa622" stroke="#43607f" stroke-width="2"/>
+<text x="699.0" y="704.0" font-size="15" fill="#33475c" text-anchor="middle" font-family="Consolas,monospace">0.2800</text>
+<polygon points="593.9768,593.9768 804.0000,593.9768 804.0000,383.9537 593.9768,383.9537" fill="#5b7fa622" stroke="#43607f" stroke-width="2"/>
+<text x="699.0" y="494.0" font-size="15" fill="#33475c" text-anchor="middle" font-family="Consolas,monospace">0.2800</text>
+<polygon points="241.5000,246.7973 434.2973,246.7973 434.2973,54.0000 241.5000,54.0000" fill="#5b7fa622" stroke="#43607f" stroke-width="2"/>
+<text x="337.9" y="155.4" font-size="15" fill="#33475c" text-anchor="middle" font-family="Consolas,monospace">0.2571</text>
+<polygon points="434.2973,238.8513 619.1487,238.8513 619.1487,54.0000 434.2973,54.0000" fill="#5b7fa622" stroke="#43607f" stroke-width="2"/>
+<text x="526.7" y="151.4" font-size="15" fill="#33475c" text-anchor="middle" font-family="Consolas,monospace">0.2465</text>
+<polygon points="619.1487,238.8513 804.0000,238.8513 804.0000,54.0000 619.1487,54.0000" fill="#5b7fa622" stroke="#43607f" stroke-width="2"/>
+<text x="711.6" y="151.4" font-size="15" fill="#33475c" text-anchor="middle" font-family="Consolas,monospace">0.2465</text>
+<polygon points="513.7953,383.9537 658.8977,383.9537 658.8977,238.8513 513.7953,238.8513" fill="#5b7fa622" stroke="#43607f" stroke-width="2"/>
+<text x="586.3" y="316.4" font-size="15" fill="#33475c" text-anchor="middle" font-family="Consolas,monospace">0.1935</text>
+<polygon points="658.8977,383.9537 804.0000,383.9537 804.0000,238.8513 658.8977,238.8513" fill="#5b7fa622" stroke="#43607f" stroke-width="2"/>
+<text x="731.4" y="316.4" font-size="15" fill="#33475c" text-anchor="middle" font-family="Consolas,monospace">0.1935</text>
+<polygon points="384.8716,383.9537 513.7953,367.7750 497.6167,238.8513 368.6930,255.0300" fill="#c0392b33" stroke="#b8391f" stroke-width="2"/>
+<text x="441.2" y="316.4" font-size="15" fill="#33475c" text-anchor="middle" font-family="Consolas,monospace">0.1732</text>
+<rect x="54" y="54" width="750" height="750" fill="none" stroke="#111" stroke-width="3"/>
+<text x="54" y="840" font-size="23" fill="#111">17 squares in the unit square, one tilted 7.1527&#176;</text>
+<text x="54" y="868" font-size="19" fill="#b8391f" font-family="Consolas,monospace">total = 2190452873/547596200 = 4.000124312403921 &gt; 4</text>
+<clipPath id="cp"><rect x="934" y="54" width="750.0" height="694.4"/></clipPath>
+<g clip-path="url(#cp)">
+<polygon points="-163.2222,2234.5556 531.2222,2234.5556 531.2222,1540.1111 -163.2222,1540.1111" fill="#5b7fa618" stroke="#8ba3bb" stroke-width="2.5"/>
+<polygon points="-163.2222,1540.1111 531.2222,1540.1111 531.2222,845.6667 -163.2222,845.6667" fill="#5b7fa618" stroke="#8ba3bb" stroke-width="2.5"/>
+<polygon points="-163.2222,845.6667 531.2222,845.6667 531.2222,151.2222 -163.2222,151.2222" fill="#5b7fa618" stroke="#8ba3bb" stroke-width="2.5"/>
+<polygon points="-163.2222,151.2222 531.2222,151.2222 531.2222,-543.2222 -163.2222,-543.2222" fill="#5b7fa618" stroke="#8ba3bb" stroke-width="2.5"/>
+<polygon points="531.2222,2234.5556 1058.8285,2234.5556 1058.8285,1706.9493 531.2222,1706.9493" fill="#5b7fa618" stroke="#8ba3bb" stroke-width="2.5"/>
+<polygon points="531.2222,1706.9493 1058.8285,1706.9493 1058.8285,1179.3430 531.2222,1179.3430" fill="#5b7fa618" stroke="#8ba3bb" stroke-width="2.5"/>
+<polygon points="531.2222,1179.3430 1058.8285,1179.3430 1058.8285,651.7368 531.2222,651.7368" fill="#5b7fa618" stroke="#8ba3bb" stroke-width="2.5"/>
+<polygon points="1058.8285,2234.5556 1836.6920,2234.5556 1836.6920,1456.6920 1058.8285,1456.6920" fill="#5b7fa618" stroke="#8ba3bb" stroke-width="2.5"/>
+<polygon points="1058.8285,1456.6920 1836.6920,1456.6920 1836.6920,678.8285 1058.8285,678.8285" fill="#5b7fa618" stroke="#8ba3bb" stroke-width="2.5"/>
+<polygon points="1836.6920,2234.5556 2614.5556,2234.5556 2614.5556,1456.6920 1836.6920,1456.6920" fill="#5b7fa618" stroke="#8ba3bb" stroke-width="2.5"/>
+<polygon points="1836.6920,1456.6920 2614.5556,1456.6920 2614.5556,678.8285 1836.6920,678.8285" fill="#5b7fa618" stroke="#8ba3bb" stroke-width="2.5"/>
+<polygon points="531.2222,170.8419 1245.2863,170.8419 1245.2863,-543.2222 531.2222,-543.2222" fill="#5b7fa618" stroke="#8ba3bb" stroke-width="2.5"/>
+<polygon points="1245.2863,141.4124 1929.9209,141.4124 1929.9209,-543.2222 1245.2863,-543.2222" fill="#5b7fa618" stroke="#8ba3bb" stroke-width="2.5"/>
+<polygon points="1929.9209,141.4124 2614.5556,141.4124 2614.5556,-543.2222 1929.9209,-543.2222" fill="#5b7fa618" stroke="#8ba3bb" stroke-width="2.5"/>
+<polygon points="1539.7234,678.8285 2077.1395,678.8285 2077.1395,141.4124 1539.7234,141.4124" fill="#5b7fa618" stroke="#8ba3bb" stroke-width="2.5"/>
+<polygon points="2077.1395,678.8285 2614.5556,678.8285 2614.5556,141.4124 2077.1395,141.4124" fill="#5b7fa618" stroke="#8ba3bb" stroke-width="2.5"/>
+<polygon points="1062.2282,678.8285 1539.7234,618.9075 1479.8024,141.4124 1002.3073,201.3334" fill="#c0392b33" stroke="#b8391f" stroke-width="2.5"/>
+<polygon points="1058.8285,678.8285 1539.7234,678.8285 1539.7234,197.9336 1058.8285,197.9336" fill="none" stroke="#2c6e49" stroke-width="2.5" stroke-dasharray="8 6"/>
+<line x1="1058.8" y1="748.4" x2="1058.8" y2="54.0" stroke="#b8391f" stroke-width="2" stroke-dasharray="6 5"/>
+<circle cx="1058.8" cy="651.7" r="7" fill="#b8391f"/>
+<circle cx="1245.3" cy="170.8" r="7" fill="#b8391f"/>
+</g>
+<rect x="934" y="54" width="750.0" height="694.4" fill="none" stroke="#111" stroke-width="3"/>
+<text x="934" y="784" font-size="23" fill="#111">detail: why the tilt gains</text>
+<text x="934" y="812" font-size="17" fill="#2c6e49" font-family="Consolas,monospace">dashed green: largest axis-parallel square here, side 0.173122157</text>
+<text x="934" y="836" font-size="17" fill="#b8391f" font-family="Consolas,monospace">red: tilted, side 0.173246470 &#8212; reaches left past the line</text>
+<text x="934" y="860" font-size="15" fill="#555" font-family="Consolas,monospace">dots: the two neighbour corners its edges pass through</text>
+</svg>
