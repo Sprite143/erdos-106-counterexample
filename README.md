@@ -15,6 +15,13 @@ tilted — with total side-length
 
 Every coordinate is an exact rational and the verification uses **no floating point at all**.
 
+![The 17-square configuration, and a detail of the tilted square](figure.svg)
+
+*Left: all 17 squares with their side lengths; the red one is tilted. Right: the same tilted
+square close up. The dashed green outline is the largest axis-parallel square that fits the
+same hole (side 0.173122157); the tilted one reaches 0.173246470 by tucking its corner past a
+neighbour's corner. That difference is exactly the margin over 4.*
+
 > **Status: not yet checked by a human referee.** This is a candidate. Independent verification
 > is exactly what it is published for. See [Prior work](#prior-work) for the strongest known
 > objection.
